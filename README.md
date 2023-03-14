@@ -2,7 +2,7 @@
 
 [https://github.com/michael-spengler/tinf-moderne-konzepte/blob/2138e7594b71256026e7fe09a78034873e68f8a2/moderne-konzepte.jpg](https://github.com/michael-spengler/tinf-moderne-konzepte/blob/2138e7594b71256026e7fe09a78034873e68f8a2/moderne-konzepte.jpg)
 
-## Chatbot
+## Example Project - Chatbot
 
 ### Learning Goals
 NLP (NLU + NLG)   
